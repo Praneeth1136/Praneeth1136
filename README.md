@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Praneeth1136
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate with Amazon 
+- 🌱 I’m currently learning JAVA
+- 💞️ I’m looking to collaborate with STARTUPS 
 - 📫 How to reach me praneethkilaparthi@gmail.com
 
 <!---
