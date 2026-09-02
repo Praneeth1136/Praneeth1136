@@ -28,7 +28,7 @@ I build full-stack web apps and agentic AI systems — LLM search agents on Lang
 Routes queries across **LLaMA 3.3 + 3.2 Vision** on the **Groq LPU** via **LangChain**, with sub-second token streaming over Socket.io and source-cited answers from the Tavily API.
 > `LangChain` · `Node.js` · `Socket.io` · `Groq` · `Tavily`
 
-### 🤖 Multi-Agent AI Sandbox Orchestration Engine *(Capstone)*
+### 🤖[CodeSpace](https://github.com/Praneeth1136/CodeSpace) -  Multi-Agent AI Sandbox Orchestration Engine *
 Distributed microservice engine that provisions a **dedicated Kubernetes Pod + Service per user session** to run isolated AI coding agents — shipped with Ingress, RBAC, and Skaffold-managed CI/CD.
 > `Node.js` · `Express` · `Kubernetes` · `Docker` · `Skaffold`
 
