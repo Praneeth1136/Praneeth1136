@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack & AI Developer · B.Tech CSE '27 · Aditya Engineering College</h3>
 
 <p align="center">
-I build full-stack web apps and agentic AI systems — LLM search agents on LangChain, multi-agent sandboxes orchestrated on Kubernetes, and real-time platforms on the MERN stack. Currently an AI Software Developer Intern @ Technical Hub, focused on distributed systems and applied LLMs.
+I build full-stack web apps and agentic AI systems — LLM search agents on LangChain, multi-agent sandboxes orchestrated on Kubernetes, and real-time platforms on the MERN stack. Currently an Software Developer Intern @ Technical Hub, focused on distributed systems and applied LLMs.
 </p>
 
 <p align="center">
