@@ -24,13 +24,14 @@ I build full-stack web apps and agentic AI systems — LLM search agents on Lang
 
 ## 🚀 Featured Projects
 
+### 🤖[CodeSpace](https://github.com/Praneeth1136/CodeSpace) -  Multi-Agent AI Sandbox Orchestration Engine *
+Distributed microservice engine that provisions a **dedicated Kubernetes Pod + Service per user session** to run isolated AI coding agents — shipped with Ingress, RBAC, and Skaffold-managed CI/CD.
+> `Node.js` · `Express` · `Kubernetes` · `Docker` · `Skaffold`
+
 ### 🔎 [Inquiro](https://github.com/Praneeth1136/inquiro) — Real-Time Multimodal AI Search Agent &nbsp;·&nbsp; [Live Demo](https://inquiro-ten-roan.vercel.app/)
 Routes queries across **LLaMA 3.3 + 3.2 Vision** on the **Groq LPU** via **LangChain**, with sub-second token streaming over Socket.io and source-cited answers from the Tavily API.
 > `LangChain` · `Node.js` · `Socket.io` · `Groq` · `Tavily`
 
-### 🤖[CodeSpace](https://github.com/Praneeth1136/CodeSpace) -  Multi-Agent AI Sandbox Orchestration Engine *
-Distributed microservice engine that provisions a **dedicated Kubernetes Pod + Service per user session** to run isolated AI coding agents — shipped with Ingress, RBAC, and Skaffold-managed CI/CD.
-> `Node.js` · `Express` · `Kubernetes` · `Docker` · `Skaffold`
 
 ### 💬 [DevTinder](https://github.com/Praneeth1136/DevTinder_Main) — Developer Networking Platform
 Full-stack platform with **real-time chat** (Socket.io), **12+ secure REST APIs**, and stateless **JWT** auth. Backend deployed on **AWS EC2 + Nginx** at 99% uptime.
