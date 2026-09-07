@@ -33,7 +33,7 @@ Routes queries across **LLaMA 3.3 + 3.2 Vision** on the **Groq LPU** via **LangC
 > `LangChain` · `Node.js` · `Socket.io` · `Groq` · `Tavily`
 
 
-### 💬 [DevTinder](https://github.com/Praneeth1136/DevTinder_Main) — Developer Networking Platform
+### 💬 [DevTinder](https://github.com/Praneeth1136/DevTinderr.git) — Developer Networking Platform
 Full-stack platform with **real-time chat** (Socket.io), **12+ secure REST APIs**, and stateless **JWT** auth. Backend deployed on **AWS EC2 + Nginx** at 99% uptime.
 > `React` · `Node.js` · `MongoDB` · `AWS` · `JWT`
 
